@@ -1,0 +1,4 @@
+#!/bin/bash                                                                      
+
+printf '\ntest pre-commit hook\n\n' 
+
